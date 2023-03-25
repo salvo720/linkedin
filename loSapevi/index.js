@@ -4,8 +4,11 @@
     
     
     
-    in futuro : 
+    forse in futuro : 
     1) node video 3 "node esegue codice non bloccante "
     2) dailydev
+    3) for vs reduce
+
+
 
 */
