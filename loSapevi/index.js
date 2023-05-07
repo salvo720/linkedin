@@ -8,6 +8,7 @@
     1) node video 3 "node esegue codice non bloccante "
     2) dailydev
     3) for vs reduce
+    4) json for typescript ( tipizzatori interfacce da json )
 
 
 
