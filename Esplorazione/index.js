@@ -7,13 +7,10 @@
     5) regex : analisi e dettagli sulla regex del meme , what scare programmers ??
 
 
-
     
-    
-    
-
-
-
-    possibili : pipe async , keyframe css vs animazioni angular animation [ transition ] 
+    possibili : 
+    1) pipe async angular , 
+    2) keyframe css vs animazioni angular animation [ transition ] ,
+    3) regex gruppi e referece ,  con esempi : io sono io con back referance  e io@gmail.com , se pobbile con forward reference , e qualche altra info sui gruppi . 
 
 */
