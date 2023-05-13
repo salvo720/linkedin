@@ -5,6 +5,7 @@
     3) esplorando #3 git: branch e pull request parte 1
     4) esplorando #4 git: branch e pull request parte 2
     5) regex : analisi e dettagli sulla regex del meme , what scare programmers ??
+    6) angular : decoratore @Component attributo selector 
 
 
     
