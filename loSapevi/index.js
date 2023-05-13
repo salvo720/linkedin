@@ -9,6 +9,8 @@
     2) dailydev
     3) for vs reduce
     4) json for typescript ( tipizzatori interfacce da json )
+    5) codesnap , screen puliti codice
+    6) codepen e codesandbox per codice e editor online con progetto 
 
 
 
