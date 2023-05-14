@@ -11,6 +11,7 @@
     4) json for typescript ( tipizzatori interfacce da json )
     5) codesnap , screen puliti codice
     6) codepen e codesandbox per codice e editor online con progetto 
+    7) sito web per la revisione testo carino , da aggiungere la punteggiatura corretta prima di dargli testo in pasto : https://languagetool.org/it
 
 
 
