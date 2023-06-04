@@ -8,6 +8,7 @@
     6) Angular : decoratore @Component attributo selector 
     7) Angular: bind delle variabili e variabili template.
     8) Angular : comunicazione tra componenti.
+    9) Node : nvm, npm init e script.
    
 
 
