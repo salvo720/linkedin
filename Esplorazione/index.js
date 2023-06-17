@@ -9,6 +9,12 @@
     7) Angular: bind delle variabili e variabili template.
     8) Angular : comunicazione tra componenti.
     9) Node : nvm, npm init e script.
+    10) Node:  npm audit e npm ovverride.
+    
+    
+    
+    incognito) Javascript / Typescript : for vs reduce.
+
    
 
 

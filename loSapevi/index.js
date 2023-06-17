@@ -6,7 +6,6 @@
     
     forse in futuro : 
     1) node video 3 "node esegue codice non bloccante "
-    3) for vs reduce
     4) json for typescript ( tipizzatori interfacce da json )
     5) codesnap , screen puliti codice
     6) codepen e codesandbox per codice e editor online con progetto 
