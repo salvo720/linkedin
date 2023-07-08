@@ -11,10 +11,9 @@
     9) Node: nvm, npm init e script.
     10) Node:  npm audit e npm ovverride.
     11) eventi: gdg catania I/O extendend 
-    
-    
-    incognito) Javascript / Typescript : for vs reduce.
-    incognito) regex gruppi e referece (in lavorazione)
+    12) Javascript / Typescript : for vs reduce.
+
+    incognito) regex gruppi e referece (pronto da capire quanti posto saranno )
     3) regex gruppi e referece ,  con esempi : io sono io con back referance  e io@gmail.com , se pobbile con forward reference , e qualche altra info sui gruppi . 
     
 
