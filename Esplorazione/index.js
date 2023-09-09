@@ -16,7 +16,7 @@
     14) meme  employee fired.
     15) meme #15, cyber security.
     16) debug codice JS e TS parte 1.
-    17) debug codice JS e TS parte 2. (OGGI)
+    17) debug codice JS e TS parte 2. 
     18) debug codice JS e TS parte 3.
 
 
