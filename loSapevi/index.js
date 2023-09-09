@@ -7,7 +7,7 @@
     forse in futuro : 
     1) node video 3 "node esegue codice non bloccante "
     4) json for typescript ( tipizzatori interfacce da json )
-    6) codepen e codesandbox per codice e editor online con progetto 
+    6) codepen e codesandbox per codice e editor online con progetto jsfiddle(js online )
     7) sito web per la revisione testo carino , da aggiungere la punteggiatura corretta prima di dargli testo in pasto : https://languagetool.org/it
     8) git better commit message 
     9) wsl window e installazione. 
