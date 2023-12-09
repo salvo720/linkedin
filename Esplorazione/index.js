@@ -21,6 +21,17 @@
 
 
 
+   spazi pregressi
+
+
+    26) attestato academy full-stack
+    27) domande tecniche css3 #4 selezionare solo i nipoti.
+
+
+
+
+
+
     incognito) regex gruppi e referece (pronto da capire quanti posto saranno )
     3) regex gruppi e referece ,  con esempi : io sono io con back referance  e io@gmail.com , se pobbile con forward reference , e qualche altra info sui gruppi . 
     
