@@ -1,0 +1,55 @@
+Subject: [PATCH] 2023_11_23_progetto post linkedin test patch
+---
+Index: loSapevi/index.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/loSapevi/index.js b/loSapevi/index.js
+--- a/loSapevi/index.js	(revision a9f0ff33b0937ead6eaadb03208b9a7909b6c67e)
++++ b/loSapevi/index.js	(date 1700768922779)
+@@ -2,7 +2,7 @@
+     LoSapevi e una raccolta di trick e shortcut dui cui i non ero a conoscenza e se sei qui nemmeno tu :) :
+     1) json formatter 
+     2) dailydev
+-    3) codesnap , screen puliti codice
++    3) codesnap , screen puliti del codice
+     
+     forse in futuro : 
+     1) node video 3 "node esegue codice non bloccante "
+@@ -10,7 +10,8 @@
+     6) codepen e codesandbox per codice e editor online con progetto jsfiddle
+     7) sito web per la revisione testo carino , da aggiungere la punteggiatura corretta prima di dargli testo in pasto : https://languagetool.org/it
+     8) git better commit message 
+-    9) wsl window e installazione. 
++    9) wsl window e installazione.
++    10) altro no spoiler
+ 
+ 
+ 
+Index: Esplorazione/index.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Esplorazione/index.js b/Esplorazione/index.js
+--- a/Esplorazione/index.js	(revision a9f0ff33b0937ead6eaadb03208b9a7909b6c67e)
++++ b/Esplorazione/index.js	(date 1700768232301)
+@@ -21,6 +21,17 @@
+ 
+ 
+ 
++   spazi pregressi
++
++
++    26) attestato academy full-stack
++    27) domande tecniche css3 #4 selezionare solo i nipoti.
++
++
++
++
++
++
+     incognito) regex gruppi e referece (pronto da capire quanti posto saranno )
+     3) regex gruppi e referece ,  con esempi : io sono io con back referance  e io@gmail.com , se pobbile con forward reference , e qualche altra info sui gruppi . 
+     

@@ -18,6 +18,34 @@
     16) debug codice JS e TS parte 1.
     17) debug codice JS e TS parte 2. 
     18) debug codice JS e TS parte 3.
+    19) Esplorando debug #19, flatten JavaScript object. 
+    20) Esplorando debug #20, debug codice js e ts parte 4. 
+    21) Esplorando debug #21, debug codice js e ts parte 5. 
+    22) Esplorando meme #22, qualcosa ha smesso di funzionare. 
+    23) Esplorando regex #23, Gruppi e reference parte 1. 
+    24) Esplorando regex #24, Gruppi e reference parte 2.
+    25) Esplorando eventi #25, aperiTech.
+    26) Esplorando attestati #26, attestato academy full-stack organizzata da UMANA SPA.
+    27) Esplorando sondaggi #27, domande tecniche css3 #4 selezionare solo i nipoti.
+    28) Esplorando IntelliJ #28, creare una patch, parte 1.
+    29) Esplorando IntelliJ #29, creare una patch, pt 2.
+    30) Esplorando IntelliJ #30, creare una patch, pt 3.
+    31) Esplorando meme #31, dev e feature.
+    32) Esplorando vscode #32, aggiungere prettier a vscode.
+    33) Esplorando nvm #33, installazione windows parte 1.
+    34) Esplorando prettier su vscode #34, 2 fix veloci.
+    35) Esplorando typescript #35, clonare un oggetto parte undefined. 
+    36) Esplorando typescript #36, clonare un oggetto parte 1. 
+    37) Esplorando TypeScript #37, clonare un oggetto parte 2 risposte sondaggio.
+    38) Esplorando css3 #38, realizzare il layout con "display:flex;".
+    39) Esplorazione devtool #39, debug z-index in Microsoft Edge.
+    40) Esplorando eventi  #40, Angular e Ngrx. 
+    41) Esplorando stackoverflow #41, account.
+    42) Esplorazione vs code #42, setup python in vs code.
+    43) Esplorando nvm #43, Angular cli e nvm parte 2.
+    44) Esplorando Ngrx e Pattern redux #44, .
+    45) Esplorando localhost https #45, Localhost enable https without openssl.
+    46) js destrutturazoine array 
 
 
 

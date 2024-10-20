@@ -3,6 +3,7 @@
     1) json formatter 
     2) dailydev
     3) codesnap , screen puliti del codice
+    4) #4 elezione moderatori stackoverflow.
     
     forse in futuro : 
     1) node video 3 "node esegue codice non bloccante "
