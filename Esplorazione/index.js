@@ -52,11 +52,6 @@
    spazi pregressi
 
 
-    26) attestato academy full-stack
-    27) domande tecniche css3 #4 selezionare solo i nipoti.
-
-
-
 
 
 
