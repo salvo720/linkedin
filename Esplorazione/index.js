@@ -46,7 +46,7 @@
     44) Esplorando Ngrx e Pattern redux #44, .
     45) Esplorando localhost https #45, Localhost enable https without openssl.
     46) js destrutturazoine array 
-
+    47) js destrutturazoine oggetto
 
 
    spazi pregressi
