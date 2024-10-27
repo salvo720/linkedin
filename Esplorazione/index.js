@@ -49,18 +49,6 @@
     47) js destrutturazoine oggetto
 
 
-   spazi pregressi
-
-
-
-
-
-    incognito) regex gruppi e referece (pronto da capire quanti posto saranno )
-    3) regex gruppi e referece ,  con esempi : io sono io con back referance  e io@gmail.com , se pobbile con forward reference , e qualche altra info sui gruppi . 
-    
-
-   
-
 
     
     possibili: 
